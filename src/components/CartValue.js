@@ -15,4 +15,3 @@ const CartValue = () => {
 };
 
 export default CartValue;
-
